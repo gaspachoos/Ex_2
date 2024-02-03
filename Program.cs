@@ -15,3 +15,4 @@
 
     return 0;
 }
+int result = Ackermann(2, 3);
